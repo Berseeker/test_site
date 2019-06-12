@@ -1,0 +1,13 @@
+#update_ .error{
+    color:red !important;
+    display: block;
+}
+
+#show_textos{
+    width: 100%;
+    margin-top: 40px;
+}
+#show_textos p{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
