@@ -2,7 +2,7 @@
 
 @section('contenido')
 
-
+@include('includes.header')
 
 <section class="section-lg-top-20">
     <!--Swiper-->
@@ -544,6 +544,6 @@
     </section>
 </main>
 
-@endsection
+
 
 
